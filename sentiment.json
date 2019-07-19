@@ -55,7 +55,7 @@
         "transform": [
           {
             "type": "wordcloud",
-            "size": [500, 300],
+            "size": [600, 800],
             "text": {"field": "text"},
             "rotate": {"field": "datum.angle"},
             "font": "Helvetica Neue, Arial",
