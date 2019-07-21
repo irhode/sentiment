@@ -71,7 +71,7 @@
             },
             "hover":{  
                "fillOpacity":{  
-                  "value":0
+                  "value":0.5
                }
             }
          },
