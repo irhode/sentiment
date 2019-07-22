@@ -21,7 +21,7 @@
             {  
                "type":"formula",
                "as":"weight",
-               "expr":"if(datum.text=='VEGA', 600, 300)"
+               "expr":"if(datum.text=='VEGA', 1200, 500)"
             }
          ]
       }
