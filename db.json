@@ -16,7 +16,7 @@
             {  
                "type":"formula",
                "as":"angle",
-               "expr":"[-90, -45, 0, 45,  90][~~(random() * 5)]"
+               "expr":"[-90, -45, 0, 45,  90][~~(random() * 10)]"
             },
             {  
                "type":"formula",
