@@ -79,7 +79,7 @@
             {  
                "type":"wordcloud",
                "size":[  
-                  900,
+                  1200,
                   500
                ],
                "text":{  
